@@ -26,6 +26,6 @@
 
 <h3> My Skills </h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,,bootstrap" alt="My Skills"> 
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,bootstrap" alt="My Skills"> 
 </div>
   
