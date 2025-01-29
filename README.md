@@ -22,8 +22,11 @@
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="hr"> 
 </div>
 
-<p>About me:<p>
-
+<h3>About me:</h3>
+<p>Hi, I'm Ehsan!
+I'm passionate about front-end development and have been learning various concepts for about a year. Along the way, I’ve challenged myself with practical exercises to improve my skills.
+Of course, what I’ve learned so far is just a small part of this fascinating world.
+I’m open to remote collaboration opportunities to gain more experience.</p>
 <h3> My Skills </h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,js,html,css,bootstrap,tailwind" alt="My Skills"> 
