@@ -29,6 +29,6 @@ Of course, what I’ve learned so far is just a small part of this fascinating w
 I’m open to remote collaboration opportunities to gain more experience.</p>
 <h3> My Skills </h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,bootstrap,tailwind" alt="My Skills"> 
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,bootstrap,tailwind,react" alt="My Skills"> 
 </div>
   
