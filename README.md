@@ -23,10 +23,8 @@
 </div>
 
 <h3>About me:</h3>
-<p>Hi, I'm Ehsan!
-I'm passionate about front-end development and have been learning various concepts for about a year. Along the way, I’ve challenged myself with practical exercises to improve my skills.
-Of course, what I’ve learned so far is just a small part of this fascinating world.
-I’m open to remote collaboration opportunities to gain more experience.</p>
+<p>About me:
+Hi, I'm Ehsan! I'm a passionate front-end developer with about a year of self-driven learning, diving into various concepts and technologies. I've honed my skills through hands-on projects and practical exercises, though I know this is just the beginning of my journey in this exciting field. I'm eager to collaborate remotely, bringing my enthusiasm and dedication to grow further while contributing to innovative projects. Open to opportunities—let's create something amazing together!</p>
 <h3> My Skills </h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,js,html,css,bootstrap,tailwind,react,materialui" alt="My Skills"> 
